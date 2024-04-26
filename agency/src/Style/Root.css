@@ -1,0 +1,19 @@
+:root{
+    --e-global-color-accent: #2270E2;
+    --e-global-color-secondary: #FFFFFF;
+    --e-global-color-primary: #212121;
+    --e-global-color-text: #4D4D4D;
+    --e-global-typography-primary-font-family: Poppins;
+    --e-global-typography-secondary-font-family: Poppins;
+    --e-global-typography-text-font-family: Poppins;
+    --e-global-typography-accent-font-family: Poppins;
+    --e-global-color-c742624: #FFFFFF;
+    --e-global-color-e0b99f2: #FFFFFF;
+    --e-global-color-45d598c: #FFFFFF;
+    --e-global-color-40b28bc: #000000;
+    --e-global-color-95d2432: #F4F8FD;
+    --e-global-color-0bbe810: #F3F4F6;
+    --e-global-color-aa009f3: #222222;
+    --e-global-color-fab3c72: #49A078;
+    --e-global-color-0883a79: #154B9B;
+}
